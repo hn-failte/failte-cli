@@ -1,0 +1,12 @@
+**/*.svg
+package.json
+.DS_Store
+.eslintignore
+.idea
+.editorconfig
+.gitignore
+.prettierignore
+*.lock
+yarn-error.log
+/dist
+/public
